@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Annual Sales Report – 2022
+#  Vrinda Store Annual Sales Report – 2022
 
 ## 📌 Project Overview
 
@@ -6,7 +6,7 @@ This project focuses on analyzing the **annual sales data of Vrinda Store for th
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To create an interactive and visual sales dashboard that provides insights into:
 
@@ -18,7 +18,7 @@ To create an interactive and visual sales dashboard that provides insights into:
 
 ---
 
-## 🛠️ What I Did
+##  What I Did
 
 * Cleaned and prepared raw sales data for analysis
 * Created multiple **PivotTables** to analyze sales, orders, customers, and regions
@@ -43,7 +43,7 @@ To create an interactive and visual sales dashboard that provides insights into:
 
 ---
 
-## 📊 Tools & Techniques Used
+##  Tools & Techniques Used
 
 * Microsoft Excel
 * PivotTables & PivotCharts
@@ -53,13 +53,13 @@ To create an interactive and visual sales dashboard that provides insights into:
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 The dashboard provides a **clear and interactive view of Vrinda Store’s 2022 sales performance**. It helps identify key customer segments, high-performing regions, and popular product categories. These insights can be used to improve marketing strategies, optimize inventory planning, and drive higher sales in the future.
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates the effective use of Excel for data analysis and business reporting. By transforming raw data into meaningful insights, the dashboard supports informed decision-making and showcases practical data analytics skills.
 
